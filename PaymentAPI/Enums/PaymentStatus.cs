@@ -5,6 +5,7 @@
         CREATED,
         PROCESSED,
         CANCELED,
-        DELETED
+        DELETED,
+        COMPLETED
     }
 }
